@@ -1,7 +1,7 @@
 # odin-recipes
 
-#**Project #Recipes**
+# **Project #Recipes**
 
 In this project, a basic recipes website has built.
 
-######Demo: [link]()
+###### Demo: [link]()
